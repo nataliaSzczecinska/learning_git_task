@@ -10,3 +10,5 @@ for key, value in shopping_list.items():
     print(f"I am going to {key.title()} and buy there [{values}]")
     number_of_products = number_of_products + len(value)
 print(f"I will buy {number_of_products} products")
+
+print("Add some text to practise git")
